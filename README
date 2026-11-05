@@ -1,0 +1,5 @@
+# Gestão de Contactos
+
+Programa desenvolvido em Python para gerir contactos pessoais. Permite adicionar, consultar, editar e remover contactos, guardar informações pessoais, pesquisar registos, consultar estatísticas, visualizar aniversariantes e exportar os dados para Excel.
+Os contactos são armazenados localmente num ficheiro JSON, permitindo manter os dados entre utilizações do programa.
+Desenvolvido como projeto académico de Fundamentos de Programação.
